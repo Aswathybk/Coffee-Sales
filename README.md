@@ -1,1 +1,1 @@
-# Coffee-Sales
+This project analyzes global coffee sales, focusing on different coffee types, customer loyalty card usage, and sales trends over a specific time period. Using Excel, data was processed and visualized to highlight key insights, such as geographical sales distribution, product performance, and the impact of loyalty programs. The visualizations provide clear, actionable insights for optimizing sales strategies and enhancing customer engagement
